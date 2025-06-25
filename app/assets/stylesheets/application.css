@@ -9,7 +9,7 @@
  * Consider organizing styles into separate files for maintainability.
  */
 
- .ascii-container {
+ /* .ascii-container {
   width: 100%;
   overflow: auto;
   display: flex;
@@ -19,8 +19,8 @@
 .ascii-art {
   font-family: monospace, "Courier New", Courier, "Lucida Console";
   white-space: pre;
-  font-size: 20px;  /* 基准字体大小（以设计时的字符数为基准） */
+  font-size: 20px;
   line-height: 1.2;
   transform: scale(calc(100vw / 600));
   transform-origin: top center;
-}
+} */

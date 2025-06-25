@@ -1,4 +1,4 @@
-<h1>Online IRB (Canvas版)</h1>
+<h1>IRB Terminal</h1>
 
 <form action="/execute" method="post" data-turbo="false">
   <%= hidden_field_tag :authenticity_token, form_authenticity_token %>
@@ -15,13 +15,13 @@
     const canvas = document.getElementById('asciiCanvas');
     const context = canvas.getContext('2d');
 
-    const fontSize = 16; // 字体大小
+    const fontSize = 16;
     const fontFamily = "monospace";
     const lines = asciiText.split("\n");
     const maxLineLength = Math.max(...lines.map(line => line.length));
 
-    // 动态调整 canvas 尺寸
-    canvas.width = maxLineLength * fontSize * 0.6;  // 字符大约宽 0.6 个 fontSize
+
+    canvas.width = maxLineLength * fontSize * 0.6;
     canvas.height = lines.length * fontSize * 1.2;
 
     context.font = `${fontSize}px ${fontFamily}`;
@@ -31,7 +31,6 @@
       context.fillText(line, 0, (i + 1) * fontSize);
     });
 
-    // 实现整体缩放 (让它宽度撑满屏幕)
     canvas.style.width = '1300vw';
     canvas.style.height = 'auto';
   </script>
