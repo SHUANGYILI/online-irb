@@ -1,4 +1,8 @@
 <style>
+.title{
+  font-size: 32px;
+  font-weight: bold;
+}
 .pre-wrapper {
   display: inline-block;
   transform-origin: top left;
@@ -21,13 +25,10 @@ pre {
     font-size: calc(100vw / (100 / 148 * 100));
     font-family: monospace;
   }
-  button {
-  margin-top: 4px; 
-}
 
 .button-wrapper {
     text-align: center;
-    margin-top: 24px;
+    margin-top: 12px;
   }
 
 .run-button {
@@ -55,7 +56,7 @@ pre {
 }
 
 </style>
-<h1>IRB Terminal</h1>
+<div class="title">IRB Terminal</div>
 <head>
   <%= csrf_meta_tags %>
 
@@ -202,9 +203,6 @@ in);};nil################       ##########    #         ########################
 ###################    ###                 ##           ###                             ###           ##                   ###    ##################
 ##################    ###                 ##            #########                 #########           ##                    ###   #############)*"")
 </textarea>
-<div class="button-wrapper">
-<button class="run-button" onclick="submitCode()">Run</button>
-</div>
 <script>
   function submitCode() {
     const rubyCode = document.getElementById("presetCode").value;
@@ -252,6 +250,8 @@ in);};nil################       ##########    #         ########################
 
 <% end %>
 
-
+<div class="button-wrapper">
+<button class="run-button" onclick="submitCode()">Run</button>
+</div>
 
 
