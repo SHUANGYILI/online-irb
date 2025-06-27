@@ -1,0 +1,606 @@
+[827bcaa5-0930-495e-b211-bd0038d8290f] Started GET "/" for 92.203.104.102 at 2025-06-27 01:58:57 +0000
+[827bcaa5-0930-495e-b211-bd0038d8290f] Processing by TerminalController#index as HTML
+[827bcaa5-0930-495e-b211-bd0038d8290f]   Rendered layout layouts/application.html.erb (Duration: 12.0ms | GC: 4.8ms)
+[827bcaa5-0930-495e-b211-bd0038d8290f] Completed 200 OK in 23ms (Views: 13.3ms | GC: 4.8ms)
+[76ca4605-b7af-426d-9551-eec6c3b5eb78] Started GET "/app/assets/stylesheets/application.css" for 92.203.104.102 at 2025-06-27 01:58:57 +0000
+[76ca4605-b7af-426d-9551-eec6c3b5eb78]   
+[76ca4605-b7af-426d-9551-eec6c3b5eb78] ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/application.css"):
+[76ca4605-b7af-426d-9551-eec6c3b5eb78]   
+[ca94f43a-e253-4521-a900-1b37adc024a4] Started GET "/" for 92.203.104.102 at 2025-06-27 01:59:05 +0000
+[ca94f43a-e253-4521-a900-1b37adc024a4] Processing by TerminalController#index as HTML
+[ca94f43a-e253-4521-a900-1b37adc024a4]   Rendered layout layouts/application.html.erb (Duration: 0.9ms | GC: 0.0ms)
+[ca94f43a-e253-4521-a900-1b37adc024a4] Completed 200 OK in 2ms (Views: 1.2ms | GC: 0.0ms)
+[13a24733-a822-4fad-b8ac-560ba610676e] Started GET "/app/assets/stylesheets/application.css" for 92.203.104.102 at 2025-06-27 01:59:05 +0000
+[13a24733-a822-4fad-b8ac-560ba610676e]   
+[13a24733-a822-4fad-b8ac-560ba610676e] ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/application.css"):
+[13a24733-a822-4fad-b8ac-560ba610676e]   
+[9a9c9b9c-7957-49e0-a0a7-dcee9b4f914b] Started GET "/" for 92.203.104.102 at 2025-06-27 01:59:06 +0000
+[9a9c9b9c-7957-49e0-a0a7-dcee9b4f914b] Processing by TerminalController#index as HTML
+[9a9c9b9c-7957-49e0-a0a7-dcee9b4f914b]   Rendered layout layouts/application.html.erb (Duration: 1.0ms | GC: 0.4ms)
+[9a9c9b9c-7957-49e0-a0a7-dcee9b4f914b] Completed 200 OK in 2ms (Views: 1.3ms | GC: 0.4ms)
+[6865f03a-3bd9-43dd-8619-895aeec44712] Started GET "/app/assets/stylesheets/application.css" for 92.203.104.102 at 2025-06-27 01:59:06 +0000
+[6865f03a-3bd9-43dd-8619-895aeec44712]   
+[6865f03a-3bd9-43dd-8619-895aeec44712] ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/application.css"):
+[6865f03a-3bd9-43dd-8619-895aeec44712]   
+[a4ed8de3-c473-466d-96db-a48ba749faa0] Started GET "/" for 92.203.104.102 at 2025-06-27 01:59:06 +0000
+[a4ed8de3-c473-466d-96db-a48ba749faa0] Processing by TerminalController#index as HTML
+[a4ed8de3-c473-466d-96db-a48ba749faa0]   Rendered layout layouts/application.html.erb (Duration: 0.6ms | GC: 0.0ms)
+[a4ed8de3-c473-466d-96db-a48ba749faa0] Completed 200 OK in 1ms (Views: 0.9ms | GC: 0.0ms)
+[4ff447e2-4432-4b3d-b03a-1cd2f351a196] Started GET "/app/assets/stylesheets/application.css" for 92.203.104.102 at 2025-06-27 01:59:06 +0000
+[4ff447e2-4432-4b3d-b03a-1cd2f351a196]   
+[4ff447e2-4432-4b3d-b03a-1cd2f351a196] ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/application.css"):
+[4ff447e2-4432-4b3d-b03a-1cd2f351a196]   
+[45f14de7-88ab-466c-99a3-a4e61a715039] Started GET "/" for 92.203.104.102 at 2025-06-27 01:59:06 +0000
+[45f14de7-88ab-466c-99a3-a4e61a715039] Processing by TerminalController#index as HTML
+[45f14de7-88ab-466c-99a3-a4e61a715039]   Rendered layout layouts/application.html.erb (Duration: 0.6ms | GC: 0.0ms)
+[45f14de7-88ab-466c-99a3-a4e61a715039] Completed 200 OK in 2ms (Views: 0.9ms | GC: 0.4ms)
+[306a7a28-c0de-4eb7-b794-c753d373a346] Started GET "/app/assets/stylesheets/application.css" for 92.203.104.102 at 2025-06-27 01:59:06 +0000
+[306a7a28-c0de-4eb7-b794-c753d373a346]   
+[306a7a28-c0de-4eb7-b794-c753d373a346] ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/application.css"):
+[306a7a28-c0de-4eb7-b794-c753d373a346]   
+[10a7a5b4-1e38-4d91-995d-31c7798225aa] Started GET "/" for 92.203.104.102 at 2025-06-27 01:59:06 +0000
+[10a7a5b4-1e38-4d91-995d-31c7798225aa] Processing by TerminalController#index as HTML
+[10a7a5b4-1e38-4d91-995d-31c7798225aa]   Rendered layout layouts/application.html.erb (Duration: 0.6ms | GC: 0.0ms)
+[10a7a5b4-1e38-4d91-995d-31c7798225aa] Completed 200 OK in 1ms (Views: 0.9ms | GC: 0.0ms)
+[1b8474b3-4f41-4547-81c6-9602296edb62] Started GET "/app/assets/stylesheets/application.css" for 92.203.104.102 at 2025-06-27 01:59:06 +0000
+[1b8474b3-4f41-4547-81c6-9602296edb62]   
+[1b8474b3-4f41-4547-81c6-9602296edb62] ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/application.css"):
+[1b8474b3-4f41-4547-81c6-9602296edb62]   
+[1b121d1c-970e-4df6-92ce-fa75af8383a3] Started GET "/" for 92.203.104.102 at 2025-06-27 01:59:07 +0000
+[1b121d1c-970e-4df6-92ce-fa75af8383a3] Processing by TerminalController#index as HTML
+[1b121d1c-970e-4df6-92ce-fa75af8383a3]   Rendered layout layouts/application.html.erb (Duration: 1.5ms | GC: 0.8ms)
+[1b121d1c-970e-4df6-92ce-fa75af8383a3] Completed 200 OK in 3ms (Views: 1.8ms | GC: 2.2ms)
+[3fe94051-f3f6-4692-8b76-37b5bd3c3cb8] Started GET "/app/assets/stylesheets/application.css" for 92.203.104.102 at 2025-06-27 01:59:07 +0000
+[3fe94051-f3f6-4692-8b76-37b5bd3c3cb8]   
+[3fe94051-f3f6-4692-8b76-37b5bd3c3cb8] ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/application.css"):
+[3fe94051-f3f6-4692-8b76-37b5bd3c3cb8]   
+[65984d68-4a48-46d9-b2d9-668445203e2f] Started GET "/" for 92.203.104.102 at 2025-06-27 01:59:07 +0000
+[65984d68-4a48-46d9-b2d9-668445203e2f] Processing by TerminalController#index as HTML
+[65984d68-4a48-46d9-b2d9-668445203e2f]   Rendered layout layouts/application.html.erb (Duration: 1.9ms | GC: 0.7ms)
+[65984d68-4a48-46d9-b2d9-668445203e2f] Completed 200 OK in 3ms (Views: 2.2ms | GC: 1.4ms)
+[eb62fdc8-cbf9-44d0-accf-055dea37aa79] Started GET "/app/assets/stylesheets/application.css" for 92.203.104.102 at 2025-06-27 01:59:07 +0000
+[eb62fdc8-cbf9-44d0-accf-055dea37aa79]   
+[eb62fdc8-cbf9-44d0-accf-055dea37aa79] ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/application.css"):
+[eb62fdc8-cbf9-44d0-accf-055dea37aa79]   
+[ac1c8bfc-44df-486a-959f-d5d0cc8a71c1] Started GET "/" for 92.203.104.102 at 2025-06-27 01:59:07 +0000
+[ac1c8bfc-44df-486a-959f-d5d0cc8a71c1] Processing by TerminalController#index as HTML
+[ac1c8bfc-44df-486a-959f-d5d0cc8a71c1]   Rendered layout layouts/application.html.erb (Duration: 1.7ms | GC: 0.9ms)
+[ac1c8bfc-44df-486a-959f-d5d0cc8a71c1] Completed 200 OK in 3ms (Views: 2.0ms | GC: 1.6ms)
+[a7a459c6-26f2-47ed-9a7b-4f230ca93e6c] Started GET "/app/assets/stylesheets/application.css" for 92.203.104.102 at 2025-06-27 01:59:07 +0000
+[a7a459c6-26f2-47ed-9a7b-4f230ca93e6c]   
+[a7a459c6-26f2-47ed-9a7b-4f230ca93e6c] ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/application.css"):
+[a7a459c6-26f2-47ed-9a7b-4f230ca93e6c]   
+[9cb76c70-d7f4-4d9d-8977-85f0b36d59b6] Started GET "/" for 92.203.104.102 at 2025-06-27 01:59:07 +0000
+[9cb76c70-d7f4-4d9d-8977-85f0b36d59b6] Processing by TerminalController#index as HTML
+[9cb76c70-d7f4-4d9d-8977-85f0b36d59b6]   Rendered layout layouts/application.html.erb (Duration: 1.3ms | GC: 0.8ms)
+[9cb76c70-d7f4-4d9d-8977-85f0b36d59b6] Completed 200 OK in 3ms (Views: 1.6ms | GC: 1.5ms)
+[db45008a-3635-4cd7-890a-33d61835f554] Started GET "/app/assets/stylesheets/application.css" for 92.203.104.102 at 2025-06-27 01:59:07 +0000
+[db45008a-3635-4cd7-890a-33d61835f554]   
+[db45008a-3635-4cd7-890a-33d61835f554] ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/application.css"):
+[db45008a-3635-4cd7-890a-33d61835f554]   
+[9e34a301-ee33-47b8-8a97-abaeac9a55e5] Started GET "/" for 92.203.104.102 at 2025-06-27 01:59:07 +0000
+[9e34a301-ee33-47b8-8a97-abaeac9a55e5] Processing by TerminalController#index as HTML
+[9e34a301-ee33-47b8-8a97-abaeac9a55e5]   Rendered layout layouts/application.html.erb (Duration: 1.5ms | GC: 1.0ms)
+[9e34a301-ee33-47b8-8a97-abaeac9a55e5] Completed 200 OK in 3ms (Views: 2.4ms | GC: 2.2ms)
+[496231b6-f141-4bb4-963d-5559531a6047] Started GET "/app/assets/stylesheets/application.css" for 92.203.104.102 at 2025-06-27 01:59:07 +0000
+[496231b6-f141-4bb4-963d-5559531a6047]   
+[496231b6-f141-4bb4-963d-5559531a6047] ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/application.css"):
+[496231b6-f141-4bb4-963d-5559531a6047]   
+[1e4a37a5-370a-4067-a53b-296f8a6d6a7b] Started GET "/" for 92.203.104.102 at 2025-06-27 01:59:08 +0000
+[1e4a37a5-370a-4067-a53b-296f8a6d6a7b] Processing by TerminalController#index as HTML
+[1e4a37a5-370a-4067-a53b-296f8a6d6a7b]   Rendered layout layouts/application.html.erb (Duration: 0.6ms | GC: 0.0ms)
+[1e4a37a5-370a-4067-a53b-296f8a6d6a7b] Completed 200 OK in 1ms (Views: 0.9ms | GC: 0.0ms)
+[2249f1e7-649c-4b06-ba11-b23c66a99f9d] Started GET "/app/assets/stylesheets/application.css" for 92.203.104.102 at 2025-06-27 01:59:08 +0000
+[2249f1e7-649c-4b06-ba11-b23c66a99f9d]   
+[2249f1e7-649c-4b06-ba11-b23c66a99f9d] ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/application.css"):
+[2249f1e7-649c-4b06-ba11-b23c66a99f9d]   
+[24531b60-8b3e-4411-b503-e3efc0e20e4f] Started GET "/" for 92.203.104.102 at 2025-06-27 01:59:08 +0000
+[24531b60-8b3e-4411-b503-e3efc0e20e4f] Processing by TerminalController#index as HTML
+[24531b60-8b3e-4411-b503-e3efc0e20e4f]   Rendered layout layouts/application.html.erb (Duration: 0.5ms | GC: 0.0ms)
+[24531b60-8b3e-4411-b503-e3efc0e20e4f] Completed 200 OK in 1ms (Views: 1.2ms | GC: 0.4ms)
+[730f275b-d58b-42de-abb1-f03dc9c8b295] Started GET "/app/assets/stylesheets/application.css" for 92.203.104.102 at 2025-06-27 01:59:08 +0000
+[730f275b-d58b-42de-abb1-f03dc9c8b295]   
+[730f275b-d58b-42de-abb1-f03dc9c8b295] ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/application.css"):
+[730f275b-d58b-42de-abb1-f03dc9c8b295]   
+[5c8a06d8-aba9-4029-bf24-0d656c6dbfff] Started GET "/" for 92.203.104.102 at 2025-06-27 01:59:08 +0000
+[5c8a06d8-aba9-4029-bf24-0d656c6dbfff] Processing by TerminalController#index as HTML
+[5c8a06d8-aba9-4029-bf24-0d656c6dbfff]   Rendered layout layouts/application.html.erb (Duration: 0.6ms | GC: 0.0ms)
+[5c8a06d8-aba9-4029-bf24-0d656c6dbfff] Completed 200 OK in 1ms (Views: 0.9ms | GC: 0.0ms)
+[3c7d4974-ce37-4c33-8c9c-1b6829726b71] Started GET "/app/assets/stylesheets/application.css" for 92.203.104.102 at 2025-06-27 01:59:08 +0000
+[3c7d4974-ce37-4c33-8c9c-1b6829726b71]   
+[3c7d4974-ce37-4c33-8c9c-1b6829726b71] ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/application.css"):
+[3c7d4974-ce37-4c33-8c9c-1b6829726b71]   
+[b70f7b71-eaba-4d72-a23c-0af9e989acca] Started GET "/" for 92.203.104.102 at 2025-06-27 01:59:08 +0000
+[b70f7b71-eaba-4d72-a23c-0af9e989acca] Processing by TerminalController#index as HTML
+[b70f7b71-eaba-4d72-a23c-0af9e989acca]   Rendered layout layouts/application.html.erb (Duration: 0.5ms | GC: 0.0ms)
+[b70f7b71-eaba-4d72-a23c-0af9e989acca] Completed 200 OK in 1ms (Views: 0.8ms | GC: 0.2ms)
+[2ec70e64-f506-4385-840e-6e5cd4625b1e] Started GET "/app/assets/stylesheets/application.css" for 92.203.104.102 at 2025-06-27 01:59:08 +0000
+[2ec70e64-f506-4385-840e-6e5cd4625b1e]   
+[2ec70e64-f506-4385-840e-6e5cd4625b1e] ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/application.css"):
+[2ec70e64-f506-4385-840e-6e5cd4625b1e]   
+[c4f7c254-7291-4f67-b7a7-d3e8f2b8fe72] Started GET "/" for 92.203.104.102 at 2025-06-27 01:59:08 +0000
+[c4f7c254-7291-4f67-b7a7-d3e8f2b8fe72] Processing by TerminalController#index as HTML
+[c4f7c254-7291-4f67-b7a7-d3e8f2b8fe72]   Rendered layout layouts/application.html.erb (Duration: 0.5ms | GC: 0.0ms)
+[c4f7c254-7291-4f67-b7a7-d3e8f2b8fe72] Completed 200 OK in 1ms (Views: 0.8ms | GC: 0.0ms)
+[347ec83b-0e80-46d4-b1b3-0a4581b2f216] Started GET "/app/assets/stylesheets/application.css" for 92.203.104.102 at 2025-06-27 01:59:08 +0000
+[347ec83b-0e80-46d4-b1b3-0a4581b2f216]   
+[347ec83b-0e80-46d4-b1b3-0a4581b2f216] ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/application.css"):
+[347ec83b-0e80-46d4-b1b3-0a4581b2f216]   
+[92a9c186-29bc-4f6e-aff6-fa724b3e05f7] Started GET "/" for 92.203.104.102 at 2025-06-27 01:59:08 +0000
+[92a9c186-29bc-4f6e-aff6-fa724b3e05f7] Processing by TerminalController#index as HTML
+[92a9c186-29bc-4f6e-aff6-fa724b3e05f7]   Rendered layout layouts/application.html.erb (Duration: 0.5ms | GC: 0.0ms)
+[92a9c186-29bc-4f6e-aff6-fa724b3e05f7] Completed 200 OK in 1ms (Views: 0.8ms | GC: 0.2ms)
+[a2dd6065-bf09-4712-a659-804045818cd1] Started GET "/app/assets/stylesheets/application.css" for 92.203.104.102 at 2025-06-27 01:59:08 +0000
+[a2dd6065-bf09-4712-a659-804045818cd1]   
+[a2dd6065-bf09-4712-a659-804045818cd1] ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/application.css"):
+[a2dd6065-bf09-4712-a659-804045818cd1]   
+[fc65870f-4282-4703-9e73-b8f911966422] Started GET "/" for 92.203.104.102 at 2025-06-27 01:59:08 +0000
+[fc65870f-4282-4703-9e73-b8f911966422] Processing by TerminalController#index as HTML
+[fc65870f-4282-4703-9e73-b8f911966422]   Rendered layout layouts/application.html.erb (Duration: 0.5ms | GC: 0.0ms)
+[fc65870f-4282-4703-9e73-b8f911966422] Completed 200 OK in 1ms (Views: 0.8ms | GC: 0.0ms)
+[356330e9-ccc8-46f3-abae-648b6f2f7a84] Started GET "/app/assets/stylesheets/application.css" for 92.203.104.102 at 2025-06-27 01:59:09 +0000
+[356330e9-ccc8-46f3-abae-648b6f2f7a84]   
+[356330e9-ccc8-46f3-abae-648b6f2f7a84] ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/application.css"):
+[356330e9-ccc8-46f3-abae-648b6f2f7a84]   
+[707d9c74-85c8-4535-a72f-97a41b25d34e] Started GET "/" for 92.203.104.102 at 2025-06-27 01:59:09 +0000
+[707d9c74-85c8-4535-a72f-97a41b25d34e] Processing by TerminalController#index as HTML
+[707d9c74-85c8-4535-a72f-97a41b25d34e]   Rendered layout layouts/application.html.erb (Duration: 0.6ms | GC: 0.0ms)
+[707d9c74-85c8-4535-a72f-97a41b25d34e] Completed 200 OK in 1ms (Views: 0.9ms | GC: 0.0ms)
+[e9702631-a7c8-41eb-bb5f-71b96d9313cb] Started GET "/app/assets/stylesheets/application.css" for 92.203.104.102 at 2025-06-27 01:59:09 +0000
+[e9702631-a7c8-41eb-bb5f-71b96d9313cb]   
+[e9702631-a7c8-41eb-bb5f-71b96d9313cb] ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/application.css"):
+[e9702631-a7c8-41eb-bb5f-71b96d9313cb]   
+[5c2191c9-61f5-4af7-945e-12762d295a9e] Started GET "/" for 92.203.104.102 at 2025-06-27 01:59:09 +0000
+[5c2191c9-61f5-4af7-945e-12762d295a9e] Processing by TerminalController#index as HTML
+[5c2191c9-61f5-4af7-945e-12762d295a9e]   Rendered layout layouts/application.html.erb (Duration: 0.6ms | GC: 0.0ms)
+[5c2191c9-61f5-4af7-945e-12762d295a9e] Completed 200 OK in 1ms (Views: 0.8ms | GC: 0.0ms)
+[f0315a83-5b7f-45f8-ae64-2b4656d6c9cd] Started GET "/app/assets/stylesheets/application.css" for 92.203.104.102 at 2025-06-27 01:59:09 +0000
+[f0315a83-5b7f-45f8-ae64-2b4656d6c9cd]   
+[f0315a83-5b7f-45f8-ae64-2b4656d6c9cd] ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/application.css"):
+[f0315a83-5b7f-45f8-ae64-2b4656d6c9cd]   
+[eb6710cf-86d1-4ca3-b458-523f61a028b0] Started GET "/" for 92.203.104.102 at 2025-06-27 01:59:09 +0000
+[eb6710cf-86d1-4ca3-b458-523f61a028b0] Processing by TerminalController#index as HTML
+[eb6710cf-86d1-4ca3-b458-523f61a028b0]   Rendered layout layouts/application.html.erb (Duration: 0.6ms | GC: 0.0ms)
+[eb6710cf-86d1-4ca3-b458-523f61a028b0] Completed 200 OK in 1ms (Views: 0.8ms | GC: 0.0ms)
+[ee7ac4c4-c58e-48b8-ae3d-736e69829912] Started GET "/app/assets/stylesheets/application.css" for 92.203.104.102 at 2025-06-27 01:59:09 +0000
+[ee7ac4c4-c58e-48b8-ae3d-736e69829912]   
+[ee7ac4c4-c58e-48b8-ae3d-736e69829912] ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/application.css"):
+[ee7ac4c4-c58e-48b8-ae3d-736e69829912]   
+[4bab5728-0f3c-4fe7-99f2-2dc2290121e7] Started GET "/" for 92.203.104.102 at 2025-06-27 01:59:09 +0000
+[4bab5728-0f3c-4fe7-99f2-2dc2290121e7] Processing by TerminalController#index as HTML
+[4bab5728-0f3c-4fe7-99f2-2dc2290121e7]   Rendered layout layouts/application.html.erb (Duration: 0.5ms | GC: 0.0ms)
+[4bab5728-0f3c-4fe7-99f2-2dc2290121e7] Completed 200 OK in 1ms (Views: 0.8ms | GC: 0.0ms)
+[b8ff4790-3fc7-4d03-ba39-373e1656a000] Started GET "/app/assets/stylesheets/application.css" for 92.203.104.102 at 2025-06-27 01:59:09 +0000
+[b8ff4790-3fc7-4d03-ba39-373e1656a000]   
+[b8ff4790-3fc7-4d03-ba39-373e1656a000] ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/application.css"):
+[b8ff4790-3fc7-4d03-ba39-373e1656a000]   
+[10be589f-87f0-4bdb-9926-7671fcb2f84d] Started GET "/" for 92.203.104.102 at 2025-06-27 01:59:09 +0000
+[10be589f-87f0-4bdb-9926-7671fcb2f84d] Processing by TerminalController#index as HTML
+[10be589f-87f0-4bdb-9926-7671fcb2f84d]   Rendered layout layouts/application.html.erb (Duration: 0.6ms | GC: 0.0ms)
+[10be589f-87f0-4bdb-9926-7671fcb2f84d] Completed 200 OK in 1ms (Views: 0.9ms | GC: 0.0ms)
+[d733d35e-732d-49d9-bcbb-a05574c22af7] Started GET "/app/assets/stylesheets/application.css" for 92.203.104.102 at 2025-06-27 01:59:09 +0000
+[d733d35e-732d-49d9-bcbb-a05574c22af7]   
+[d733d35e-732d-49d9-bcbb-a05574c22af7] ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/application.css"):
+[d733d35e-732d-49d9-bcbb-a05574c22af7]   
+[248653b5-1dde-4ce3-ac5e-2bd42579e56c] Started GET "/" for 92.203.104.102 at 2025-06-27 01:59:09 +0000
+[248653b5-1dde-4ce3-ac5e-2bd42579e56c] Processing by TerminalController#index as HTML
+[248653b5-1dde-4ce3-ac5e-2bd42579e56c]   Rendered layout layouts/application.html.erb (Duration: 0.5ms | GC: 0.0ms)
+[248653b5-1dde-4ce3-ac5e-2bd42579e56c] Completed 200 OK in 2ms (Views: 0.8ms | GC: 0.4ms)
+[9d970aee-094b-4132-a47c-4aa927bf26fd] Started GET "/app/assets/stylesheets/application.css" for 92.203.104.102 at 2025-06-27 01:59:09 +0000
+[9d970aee-094b-4132-a47c-4aa927bf26fd]   
+[9d970aee-094b-4132-a47c-4aa927bf26fd] ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/application.css"):
+[9d970aee-094b-4132-a47c-4aa927bf26fd]   
+[0c0336fa-e7d5-486d-a355-f499dd04aa98] Started GET "/" for 92.203.104.102 at 2025-06-27 01:59:09 +0000
+[0c0336fa-e7d5-486d-a355-f499dd04aa98] Processing by TerminalController#index as HTML
+[0c0336fa-e7d5-486d-a355-f499dd04aa98]   Rendered layout layouts/application.html.erb (Duration: 0.6ms | GC: 0.0ms)
+[0c0336fa-e7d5-486d-a355-f499dd04aa98] Completed 200 OK in 1ms (Views: 0.9ms | GC: 0.0ms)
+[18a1ca65-8a24-4cd2-a4cf-a5b3053ad1ac] Started GET "/app/assets/stylesheets/application.css" for 92.203.104.102 at 2025-06-27 01:59:09 +0000
+[18a1ca65-8a24-4cd2-a4cf-a5b3053ad1ac]   
+[18a1ca65-8a24-4cd2-a4cf-a5b3053ad1ac] ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/application.css"):
+[18a1ca65-8a24-4cd2-a4cf-a5b3053ad1ac]   
+[78779e8e-24aa-46c7-b784-ea88ba498380] Started GET "/" for 92.203.104.102 at 2025-06-27 01:59:10 +0000
+[78779e8e-24aa-46c7-b784-ea88ba498380] Processing by TerminalController#index as HTML
+[78779e8e-24aa-46c7-b784-ea88ba498380]   Rendered layout layouts/application.html.erb (Duration: 0.5ms | GC: 0.0ms)
+[78779e8e-24aa-46c7-b784-ea88ba498380] Completed 200 OK in 1ms (Views: 0.8ms | GC: 0.3ms)
+[13007a59-f2bc-4e31-89db-26f78411591c] Started GET "/app/assets/stylesheets/application.css" for 92.203.104.102 at 2025-06-27 01:59:10 +0000
+[13007a59-f2bc-4e31-89db-26f78411591c]   
+[13007a59-f2bc-4e31-89db-26f78411591c] ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/application.css"):
+[13007a59-f2bc-4e31-89db-26f78411591c]   
+[c098acbe-bb51-480e-9ed4-850fbea06c7e] Started GET "/" for 92.203.104.102 at 2025-06-27 01:59:11 +0000
+[c098acbe-bb51-480e-9ed4-850fbea06c7e] Processing by TerminalController#index as HTML
+[c098acbe-bb51-480e-9ed4-850fbea06c7e]   Rendered layout layouts/application.html.erb (Duration: 0.6ms | GC: 0.0ms)
+[c098acbe-bb51-480e-9ed4-850fbea06c7e] Completed 200 OK in 1ms (Views: 0.8ms | GC: 0.0ms)
+[4fcd16ee-42ef-4123-99d7-e04a3c094e98] Started GET "/app/assets/stylesheets/application.css" for 92.203.104.102 at 2025-06-27 01:59:11 +0000
+[4fcd16ee-42ef-4123-99d7-e04a3c094e98]   
+[4fcd16ee-42ef-4123-99d7-e04a3c094e98] ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/application.css"):
+[4fcd16ee-42ef-4123-99d7-e04a3c094e98]   
+[fc4ef45b-e61d-4562-971a-82682182a19f] Started GET "/" for 92.203.104.102 at 2025-06-27 01:59:11 +0000
+[fc4ef45b-e61d-4562-971a-82682182a19f] Processing by TerminalController#index as HTML
+[fc4ef45b-e61d-4562-971a-82682182a19f]   Rendered layout layouts/application.html.erb (Duration: 0.5ms | GC: 0.0ms)
+[fc4ef45b-e61d-4562-971a-82682182a19f] Completed 200 OK in 1ms (Views: 0.8ms | GC: 0.1ms)
+[08c3dc99-5baf-4740-9c35-bb6f9d14a162] Started GET "/app/assets/stylesheets/application.css" for 92.203.104.102 at 2025-06-27 01:59:11 +0000
+[08c3dc99-5baf-4740-9c35-bb6f9d14a162]   
+[08c3dc99-5baf-4740-9c35-bb6f9d14a162] ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/application.css"):
+[08c3dc99-5baf-4740-9c35-bb6f9d14a162]   
+[fd94a956-c401-45b5-85d3-7039d5e47e62] Started GET "/" for 92.203.104.102 at 2025-06-27 01:59:11 +0000
+[fd94a956-c401-45b5-85d3-7039d5e47e62] Processing by TerminalController#index as HTML
+[fd94a956-c401-45b5-85d3-7039d5e47e62]   Rendered layout layouts/application.html.erb (Duration: 0.5ms | GC: 0.0ms)
+[fd94a956-c401-45b5-85d3-7039d5e47e62] Completed 200 OK in 1ms (Views: 0.8ms | GC: 0.0ms)
+[95f5f349-77cc-48e1-bf54-4540dbe177b8] Started GET "/app/assets/stylesheets/application.css" for 92.203.104.102 at 2025-06-27 01:59:11 +0000
+[95f5f349-77cc-48e1-bf54-4540dbe177b8]   
+[95f5f349-77cc-48e1-bf54-4540dbe177b8] ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/application.css"):
+[95f5f349-77cc-48e1-bf54-4540dbe177b8]   
+[1088b0c3-e4b2-4e8e-b949-2d7770fa44f0] Started GET "/" for 92.203.104.102 at 2025-06-27 01:59:11 +0000
+[1088b0c3-e4b2-4e8e-b949-2d7770fa44f0] Processing by TerminalController#index as HTML
+[1088b0c3-e4b2-4e8e-b949-2d7770fa44f0]   Rendered layout layouts/application.html.erb (Duration: 0.6ms | GC: 0.0ms)
+[1088b0c3-e4b2-4e8e-b949-2d7770fa44f0] Completed 200 OK in 1ms (Views: 0.9ms | GC: 0.0ms)
+[685c30bb-3a48-456a-b4a8-1cfedf5b3467] Started GET "/app/assets/stylesheets/application.css" for 92.203.104.102 at 2025-06-27 01:59:11 +0000
+[685c30bb-3a48-456a-b4a8-1cfedf5b3467]   
+[685c30bb-3a48-456a-b4a8-1cfedf5b3467] ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/application.css"):
+[685c30bb-3a48-456a-b4a8-1cfedf5b3467]   
+[bec15d43-e766-48cc-a356-b733cef3075f] Started GET "/" for 92.203.104.102 at 2025-06-27 01:59:11 +0000
+[bec15d43-e766-48cc-a356-b733cef3075f] Processing by TerminalController#index as HTML
+[bec15d43-e766-48cc-a356-b733cef3075f]   Rendered layout layouts/application.html.erb (Duration: 0.5ms | GC: 0.0ms)
+[bec15d43-e766-48cc-a356-b733cef3075f] Completed 200 OK in 1ms (Views: 0.8ms | GC: 0.0ms)
+[9e80fe44-3560-45ef-9ef5-df243a76b082] Started GET "/app/assets/stylesheets/application.css" for 92.203.104.102 at 2025-06-27 01:59:11 +0000
+[9e80fe44-3560-45ef-9ef5-df243a76b082]   
+[9e80fe44-3560-45ef-9ef5-df243a76b082] ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/application.css"):
+[9e80fe44-3560-45ef-9ef5-df243a76b082]   
+[1536d563-2709-4e26-bbf9-8f7b84360c03] Started GET "/" for 92.203.104.102 at 2025-06-27 01:59:11 +0000
+[1536d563-2709-4e26-bbf9-8f7b84360c03] Processing by TerminalController#index as HTML
+[1536d563-2709-4e26-bbf9-8f7b84360c03]   Rendered layout layouts/application.html.erb (Duration: 0.5ms | GC: 0.0ms)
+[1536d563-2709-4e26-bbf9-8f7b84360c03] Completed 200 OK in 1ms (Views: 0.8ms | GC: 0.0ms)
+[4a712d5f-e89f-44f9-a7af-81ea6a4e0172] Started GET "/app/assets/stylesheets/application.css" for 92.203.104.102 at 2025-06-27 01:59:11 +0000
+[4a712d5f-e89f-44f9-a7af-81ea6a4e0172]   
+[4a712d5f-e89f-44f9-a7af-81ea6a4e0172] ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/application.css"):
+[4a712d5f-e89f-44f9-a7af-81ea6a4e0172]   
+[a61ca1fc-fae4-4a6b-9cc3-0ee6e0086902] Started GET "/" for 92.203.104.102 at 2025-06-27 01:59:11 +0000
+[a61ca1fc-fae4-4a6b-9cc3-0ee6e0086902] Processing by TerminalController#index as HTML
+[a61ca1fc-fae4-4a6b-9cc3-0ee6e0086902]   Rendered layout layouts/application.html.erb (Duration: 0.5ms | GC: 0.0ms)
+[a61ca1fc-fae4-4a6b-9cc3-0ee6e0086902] Completed 200 OK in 1ms (Views: 0.8ms | GC: 0.0ms)
+[e53cb88b-2772-4754-93a9-4bdf43da06c6] Started GET "/app/assets/stylesheets/application.css" for 92.203.104.102 at 2025-06-27 01:59:11 +0000
+[e53cb88b-2772-4754-93a9-4bdf43da06c6]   
+[e53cb88b-2772-4754-93a9-4bdf43da06c6] ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/application.css"):
+[e53cb88b-2772-4754-93a9-4bdf43da06c6]   
+[ab66b1a3-f3aa-4c22-9fbc-2141cbe67f56] Started GET "/" for 92.203.104.102 at 2025-06-27 01:59:11 +0000
+[ab66b1a3-f3aa-4c22-9fbc-2141cbe67f56] Processing by TerminalController#index as HTML
+[ab66b1a3-f3aa-4c22-9fbc-2141cbe67f56]   Rendered layout layouts/application.html.erb (Duration: 12.3ms | GC: 5.9ms)
+[ab66b1a3-f3aa-4c22-9fbc-2141cbe67f56] Completed 200 OK in 25ms (Views: 13.8ms | GC: 5.9ms)
+[28226897-fd1b-4033-8570-de2879a59994] Started GET "/app/assets/stylesheets/application.css" for 92.203.104.102 at 2025-06-27 01:59:11 +0000
+[28226897-fd1b-4033-8570-de2879a59994]   
+[28226897-fd1b-4033-8570-de2879a59994] ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/application.css"):
+[28226897-fd1b-4033-8570-de2879a59994]   
+[1d465726-c5f4-4520-b12e-d75fdcb7412e] Started GET "/" for 92.203.104.102 at 2025-06-27 01:59:11 +0000
+[1d465726-c5f4-4520-b12e-d75fdcb7412e] Processing by TerminalController#index as HTML
+[1d465726-c5f4-4520-b12e-d75fdcb7412e]   Rendered layout layouts/application.html.erb (Duration: 0.6ms | GC: 0.0ms)
+[1d465726-c5f4-4520-b12e-d75fdcb7412e] Completed 200 OK in 1ms (Views: 0.9ms | GC: 0.0ms)
+[15c58522-2739-4fdf-8662-fae045cc38ef] Started GET "/app/assets/stylesheets/application.css" for 92.203.104.102 at 2025-06-27 01:59:11 +0000
+[15c58522-2739-4fdf-8662-fae045cc38ef]   
+[15c58522-2739-4fdf-8662-fae045cc38ef] ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/application.css"):
+[15c58522-2739-4fdf-8662-fae045cc38ef]   
+[fde7755a-1ab0-46a0-a0b5-de8c9c18a15d] Started GET "/" for 92.203.104.102 at 2025-06-27 01:59:12 +0000
+[fde7755a-1ab0-46a0-a0b5-de8c9c18a15d] Processing by TerminalController#index as HTML
+[fde7755a-1ab0-46a0-a0b5-de8c9c18a15d]   Rendered layout layouts/application.html.erb (Duration: 0.5ms | GC: 0.0ms)
+[fde7755a-1ab0-46a0-a0b5-de8c9c18a15d] Completed 200 OK in 1ms (Views: 0.8ms | GC: 0.0ms)
+[7ec4ea2e-ad4f-4fbf-9c38-51a1387d034f] Started GET "/app/assets/stylesheets/application.css" for 92.203.104.102 at 2025-06-27 01:59:12 +0000
+[7ec4ea2e-ad4f-4fbf-9c38-51a1387d034f]   
+[7ec4ea2e-ad4f-4fbf-9c38-51a1387d034f] ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/application.css"):
+[7ec4ea2e-ad4f-4fbf-9c38-51a1387d034f]   
+[d69fc764-cbac-4803-bc3c-0cd601c4a261] Started GET "/" for 92.203.104.102 at 2025-06-27 01:59:12 +0000
+[d69fc764-cbac-4803-bc3c-0cd601c4a261] Processing by TerminalController#index as HTML
+[d69fc764-cbac-4803-bc3c-0cd601c4a261]   Rendered layout layouts/application.html.erb (Duration: 0.6ms | GC: 0.0ms)
+[d69fc764-cbac-4803-bc3c-0cd601c4a261] Completed 200 OK in 1ms (Views: 0.8ms | GC: 0.0ms)
+[8a35ba3e-0a75-4491-9066-1e4377473c7d] Started GET "/app/assets/stylesheets/application.css" for 92.203.104.102 at 2025-06-27 01:59:12 +0000
+[8a35ba3e-0a75-4491-9066-1e4377473c7d]   
+[8a35ba3e-0a75-4491-9066-1e4377473c7d] ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/application.css"):
+[8a35ba3e-0a75-4491-9066-1e4377473c7d]   
+[4378d981-7e95-406b-b7c5-b4f742869207] Started GET "/" for 92.203.104.102 at 2025-06-27 01:59:12 +0000
+[4378d981-7e95-406b-b7c5-b4f742869207] Processing by TerminalController#index as HTML
+[4378d981-7e95-406b-b7c5-b4f742869207]   Rendered layout layouts/application.html.erb (Duration: 0.6ms | GC: 0.0ms)
+[4378d981-7e95-406b-b7c5-b4f742869207] Completed 200 OK in 1ms (Views: 0.9ms | GC: 0.0ms)
+[dae3b784-9db1-4270-a3bc-8b52f3b0e43d] Started GET "/app/assets/stylesheets/application.css" for 92.203.104.102 at 2025-06-27 01:59:12 +0000
+[dae3b784-9db1-4270-a3bc-8b52f3b0e43d]   
+[dae3b784-9db1-4270-a3bc-8b52f3b0e43d] ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/application.css"):
+[dae3b784-9db1-4270-a3bc-8b52f3b0e43d]   
+[6aeb61d5-4e29-444c-8906-38325b5ec1f7] Started GET "/" for 92.203.104.102 at 2025-06-27 01:59:12 +0000
+[6aeb61d5-4e29-444c-8906-38325b5ec1f7] Processing by TerminalController#index as HTML
+[6aeb61d5-4e29-444c-8906-38325b5ec1f7]   Rendered layout layouts/application.html.erb (Duration: 3.5ms | GC: 2.8ms)
+[6aeb61d5-4e29-444c-8906-38325b5ec1f7] Completed 200 OK in 5ms (Views: 3.8ms | GC: 3.3ms)
+[4c5ca2ac-c119-4b94-8866-e6f8ac1b3ba0] Started GET "/app/assets/stylesheets/application.css" for 92.203.104.102 at 2025-06-27 01:59:12 +0000
+[4c5ca2ac-c119-4b94-8866-e6f8ac1b3ba0]   
+[4c5ca2ac-c119-4b94-8866-e6f8ac1b3ba0] ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/application.css"):
+[4c5ca2ac-c119-4b94-8866-e6f8ac1b3ba0]   
+[65f8a6b6-954a-4864-ad01-f98ab1e71a5a] Started GET "/" for 92.203.104.102 at 2025-06-27 01:59:12 +0000
+[65f8a6b6-954a-4864-ad01-f98ab1e71a5a] Processing by TerminalController#index as HTML
+[65f8a6b6-954a-4864-ad01-f98ab1e71a5a]   Rendered layout layouts/application.html.erb (Duration: 1.2ms | GC: 0.6ms)
+[65f8a6b6-954a-4864-ad01-f98ab1e71a5a] Completed 200 OK in 2ms (Views: 1.5ms | GC: 0.6ms)
+[f2c81f9c-11f2-4d81-9089-b2c43633dfe3] Started GET "/app/assets/stylesheets/application.css" for 92.203.104.102 at 2025-06-27 01:59:12 +0000
+[f2c81f9c-11f2-4d81-9089-b2c43633dfe3]   
+[f2c81f9c-11f2-4d81-9089-b2c43633dfe3] ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/application.css"):
+[f2c81f9c-11f2-4d81-9089-b2c43633dfe3]   
+[8dac48ac-972f-4424-9d9c-b35bd675b4c3] Started GET "/" for 92.203.104.102 at 2025-06-27 01:59:12 +0000
+[8dac48ac-972f-4424-9d9c-b35bd675b4c3] Processing by TerminalController#index as HTML
+[8dac48ac-972f-4424-9d9c-b35bd675b4c3]   Rendered layout layouts/application.html.erb (Duration: 1.9ms | GC: 1.1ms)
+[8dac48ac-972f-4424-9d9c-b35bd675b4c3] Completed 200 OK in 3ms (Views: 2.2ms | GC: 1.6ms)
+[7282cd65-b4ed-418a-ad0c-954f437d7136] Started GET "/app/assets/stylesheets/application.css" for 92.203.104.102 at 2025-06-27 01:59:12 +0000
+[7282cd65-b4ed-418a-ad0c-954f437d7136]   
+[7282cd65-b4ed-418a-ad0c-954f437d7136] ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/application.css"):
+[7282cd65-b4ed-418a-ad0c-954f437d7136]   
+[82e9efca-ce00-41fa-863c-e4e131434aef] Started GET "/" for 92.203.104.102 at 2025-06-27 01:59:12 +0000
+[82e9efca-ce00-41fa-863c-e4e131434aef] Processing by TerminalController#index as HTML
+[82e9efca-ce00-41fa-863c-e4e131434aef]   Rendered layout layouts/application.html.erb (Duration: 1.2ms | GC: 0.6ms)
+[82e9efca-ce00-41fa-863c-e4e131434aef] Completed 200 OK in 2ms (Views: 1.5ms | GC: 1.4ms)
+[d8d33789-dd7f-449a-adc2-4cb1c862923f] Started GET "/app/assets/stylesheets/application.css" for 92.203.104.102 at 2025-06-27 01:59:12 +0000
+[d8d33789-dd7f-449a-adc2-4cb1c862923f]   
+[d8d33789-dd7f-449a-adc2-4cb1c862923f] ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/application.css"):
+[d8d33789-dd7f-449a-adc2-4cb1c862923f]   
+[e96b96a4-6db8-4674-b480-c7076563242e] Started GET "/" for 92.203.104.102 at 2025-06-27 01:59:12 +0000
+[e96b96a4-6db8-4674-b480-c7076563242e] Processing by TerminalController#index as HTML
+[e96b96a4-6db8-4674-b480-c7076563242e]   Rendered layout layouts/application.html.erb (Duration: 2.5ms | GC: 1.7ms)
+[e96b96a4-6db8-4674-b480-c7076563242e] Completed 200 OK in 5ms (Views: 4.4ms | GC: 3.3ms)
+[d8221142-c482-4041-b422-4753ff0f5058] Started GET "/app/assets/stylesheets/application.css" for 92.203.104.102 at 2025-06-27 01:59:12 +0000
+[d8221142-c482-4041-b422-4753ff0f5058]   
+[d8221142-c482-4041-b422-4753ff0f5058] ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/application.css"):
+[d8221142-c482-4041-b422-4753ff0f5058]   
+[27b95595-a9bc-46fb-93cb-14c2d32623af] Started GET "/" for 92.203.104.102 at 2025-06-27 01:59:13 +0000
+[27b95595-a9bc-46fb-93cb-14c2d32623af] Processing by TerminalController#index as HTML
+[27b95595-a9bc-46fb-93cb-14c2d32623af]   Rendered layout layouts/application.html.erb (Duration: 2.2ms | GC: 1.5ms)
+[27b95595-a9bc-46fb-93cb-14c2d32623af] Completed 200 OK in 4ms (Views: 3.0ms | GC: 3.2ms)
+[afa0cd4e-3a43-4b24-a45f-720a901c3d33] Started GET "/app/assets/stylesheets/application.css" for 92.203.104.102 at 2025-06-27 01:59:13 +0000
+[afa0cd4e-3a43-4b24-a45f-720a901c3d33]   
+[afa0cd4e-3a43-4b24-a45f-720a901c3d33] ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/application.css"):
+[afa0cd4e-3a43-4b24-a45f-720a901c3d33]   
+[143ffdb3-8af3-42f4-b4ef-197085ae4a19] Started GET "/" for 92.203.104.102 at 2025-06-27 01:59:13 +0000
+[143ffdb3-8af3-42f4-b4ef-197085ae4a19] Processing by TerminalController#index as HTML
+[143ffdb3-8af3-42f4-b4ef-197085ae4a19]   Rendered layout layouts/application.html.erb (Duration: 0.6ms | GC: 0.0ms)
+[143ffdb3-8af3-42f4-b4ef-197085ae4a19] Completed 200 OK in 1ms (Views: 0.8ms | GC: 0.0ms)
+[a1df7cbc-ded6-4260-8948-928b26f39ac1] Started GET "/app/assets/stylesheets/application.css" for 92.203.104.102 at 2025-06-27 01:59:13 +0000
+[a1df7cbc-ded6-4260-8948-928b26f39ac1]   
+[a1df7cbc-ded6-4260-8948-928b26f39ac1] ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/application.css"):
+[a1df7cbc-ded6-4260-8948-928b26f39ac1]   
+[122405a2-1c27-43c8-9b46-341513e4ddd7] Started GET "/" for 92.203.104.102 at 2025-06-27 01:59:13 +0000
+[122405a2-1c27-43c8-9b46-341513e4ddd7] Processing by TerminalController#index as HTML
+[122405a2-1c27-43c8-9b46-341513e4ddd7]   Rendered layout layouts/application.html.erb (Duration: 0.6ms | GC: 0.0ms)
+[122405a2-1c27-43c8-9b46-341513e4ddd7] Completed 200 OK in 1ms (Views: 0.9ms | GC: 0.0ms)
+[a2c13562-6170-4b7c-9a9f-e2b1aaeadeeb] Started GET "/app/assets/stylesheets/application.css" for 92.203.104.102 at 2025-06-27 01:59:13 +0000
+[a2c13562-6170-4b7c-9a9f-e2b1aaeadeeb]   
+[a2c13562-6170-4b7c-9a9f-e2b1aaeadeeb] ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/application.css"):
+[a2c13562-6170-4b7c-9a9f-e2b1aaeadeeb]   
+[742da5f8-fb3a-43cd-a4c7-25094c55e904] Started GET "/" for 92.203.104.102 at 2025-06-27 01:59:13 +0000
+[742da5f8-fb3a-43cd-a4c7-25094c55e904] Processing by TerminalController#index as HTML
+[742da5f8-fb3a-43cd-a4c7-25094c55e904]   Rendered layout layouts/application.html.erb (Duration: 0.6ms | GC: 0.0ms)
+[742da5f8-fb3a-43cd-a4c7-25094c55e904] Completed 200 OK in 1ms (Views: 0.8ms | GC: 0.0ms)
+[e937a100-3a78-41cc-a1b2-74ee76f6a4e3] Started GET "/app/assets/stylesheets/application.css" for 92.203.104.102 at 2025-06-27 01:59:13 +0000
+[e937a100-3a78-41cc-a1b2-74ee76f6a4e3]   
+[e937a100-3a78-41cc-a1b2-74ee76f6a4e3] ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/application.css"):
+[e937a100-3a78-41cc-a1b2-74ee76f6a4e3]   
+[0eb57ff1-7a55-48a3-830f-5930d84eb589] Started GET "/" for 92.203.104.102 at 2025-06-27 01:59:13 +0000
+[0eb57ff1-7a55-48a3-830f-5930d84eb589] Processing by TerminalController#index as HTML
+[0eb57ff1-7a55-48a3-830f-5930d84eb589]   Rendered layout layouts/application.html.erb (Duration: 0.5ms | GC: 0.0ms)
+[0eb57ff1-7a55-48a3-830f-5930d84eb589] Completed 200 OK in 1ms (Views: 0.8ms | GC: 0.0ms)
+[c9e5bc20-855a-4d0b-84aa-8b8d1805c5a5] Started GET "/app/assets/stylesheets/application.css" for 92.203.104.102 at 2025-06-27 01:59:13 +0000
+[c9e5bc20-855a-4d0b-84aa-8b8d1805c5a5]   
+[c9e5bc20-855a-4d0b-84aa-8b8d1805c5a5] ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/application.css"):
+[c9e5bc20-855a-4d0b-84aa-8b8d1805c5a5]   
+[6a7d90f1-996b-46c3-b9cd-db0e756df3e1] Started GET "/" for 92.203.104.102 at 2025-06-27 01:59:13 +0000
+[6a7d90f1-996b-46c3-b9cd-db0e756df3e1] Processing by TerminalController#index as HTML
+[6a7d90f1-996b-46c3-b9cd-db0e756df3e1]   Rendered layout layouts/application.html.erb (Duration: 0.8ms | GC: 0.0ms)
+[6a7d90f1-996b-46c3-b9cd-db0e756df3e1] Completed 200 OK in 2ms (Views: 1.4ms | GC: 0.3ms)
+[2a160eba-27d7-4a0b-a65c-885d52db15ca] Started GET "/app/assets/stylesheets/application.css" for 92.203.104.102 at 2025-06-27 01:59:13 +0000
+[2a160eba-27d7-4a0b-a65c-885d52db15ca]   
+[2a160eba-27d7-4a0b-a65c-885d52db15ca] ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/application.css"):
+[2a160eba-27d7-4a0b-a65c-885d52db15ca]   
+[3337ea34-ee1e-4fc3-a9af-50f5584cec2e] Started POST "/execute" for 92.203.104.102 at 2025-06-27 01:59:34 +0000
+[3337ea34-ee1e-4fc3-a9af-50f5584cec2e] Processing by TerminalController#execute as HTML
+[3337ea34-ee1e-4fc3-a9af-50f5584cec2e]   Parameters: {"authenticity_token" => "[FILTERED]", "code" => "eval(%w(ingage_big                                                                                                         _logo   _asciiart_coord=[[[\r\n10,4],[15,4],[18,                                                                                                        5],[7,5]  ,[25,15],[4,18],[3,\r\n19],[1,19]],[[10,                                                                                                         4],[15,4  ],[17,5],[8,5],[1,\r\n3],[4,10],[31,6],  [1                                                                                                       0,5],[   9,5],[1,5],[9,5]]\r\n,[[10,4],[15,4],[  16,5                                                                                                      ],[9,   5],[1,3],[4,10],[\r\n4,21],[1,18],[3,5  ],[9,      5],                                                                                            [1,5],  [9,5]],[[6,11],[2\r\n,24],[5,5],[5,15]  ,[17,4],[14,3                                                                                             ]    ,  [1,18],[3,19],[1,\r\n19]],[[10,4],[15,  4],[13, 5],[12                                                                                                     ,5],[7,12],[3,4]\r\n,[14,3],[1,3],[13  ,2],     [3,5                                                                                                     ],[9,5],[1,5],[9,\r\n5]],[[10,4],[15,4  ],[1                       1                                                                                       ,5],[3,5],[6,5],\r\n[7,12],[3,21],[1,  18                         ],                                                                                      [3,5],[9,5],[1,5\r\n],[9,5]],[[10,4],                            [7,2                                                                                      0],[10,5],[7,5]\r\n,[11,4],[7,3],[19                           ,18],[3                                                                                     ,19],[1,19]],[\r\n[10,4],[1,2],[20                           ,3],[10,5]                                                                                    ,[3,3],[2,5],\r\n[2,3],[6,4],[7,3                          ],[1,4],[6,3]                                                                                     ,[5,3],[13\r\n,2],[3,5],[29,5]                         ],[[10,5],[8,3],                                                                                  [9,4],[10,5\r\n],[4,3],[2,5],[2                        ,3],[6,4],[7,3],[1,4                                                                                ],[6,3],[5\r\n,18],[3,5],[29,                        5]],[[8,6],[10,4],[6,4],                                                                                [9,7],[\r\n4,3],[2,5],[2,3                       ],[6,4],[7,3],[1,17],[1,18],                                                                          [3,5],[7,1\r\n5],[7,5]],[[6,                       3],[1,4],[11,4],[4,4],[8,4],[1,4                                                                     ],[3,4],[2,5\r\n],[2,4],[5,4]                      ,[7,2],[2,4],[4,4],[6,3],[13,2],[3,5],[7,3                                                         ],[9,3],[7,5]],[\r\n[10,4],[12,                       4],[1,5]               ,[14,4],[3,4],[2,5],[2,4],                                                           [5,4],[6\r\n,3],[1,1                         8],[1,18],[3,5],[7,3],[      9,3],[7,5]],[[10,4],[14       ,6]                                              ,[16,4],[\r\n3,4],[2,5]                       ,[2,4],[5,4],[5,3],[1,1],[1,  4],[4,4],[6,18],[3,5],  [7,3],[9,3],[7,5]],[[10,4],[                         13,4],[1,4\r\n],[14,4],[9,5                   ],[11,4],[4,3],[4,17],[4,4],[5,4],[5,5],[7,15],[7,5]],[[10,4],[10,6],[3,5],[12,4],[9                       ,5],[8,7],[\r\n3,2],[6,                         4],[4,4                         ],[8,4],[7,4],[4,5]                         ,[26,8]],                    [[9,5],[7,8]\r\n,[5,8],                          [8,  4],[9,5] ,[11,4],[1  1,17],[  1,5        ],  [9,5],[2  ,5],[29,5  ]],[[0   ,0]                    ],[[7,6]],[[4,\r\n3],[6,2]],[[3                       ,2],[10,2]],[[2,2],[12,2]],[[3,  2],[10,2]],  [[4,2],[7,3]],[[6  ,7],[85,10]]                       ,[[5,10],[7,24\r\n],[17,16],[3    ,4]                ,[7,4],[11, 5],    [1    6,16],[  3,4],[13,15  ]],[[3,2      ],  [   9,2],[2,4  ],[           24,3]    ,[10,4],[22,\r\n2],[3,4],[19   ,     3          ],  [9,4],[22,2],[        8,3],[17,  3]],[[1,2],[ 11,2],[2,     2]  ,[29,2],[6,3] ,[2           5     ,   2],[1,3],[24\r\n,3],[5,3],[   2  5,2]  ,       [5,  3],[23,3]],[[1,1]     ,[12,2],  [2,2],[30,2],  [3,3],[2 7,2],   [1,2],[26,2], [3,3        ]  ,[27  ,   2],[3,3],[2\r\n7,2],],[[1,   2 ],[11   ,2     ],[2 ,4],[29,2],[1,3]    ,[28,2],[1 ,2],[13,3],[11, 2],[1,3],[2    8,2],[2,3],[29  ,2]],      [   [1,4] ,   [9,2],[4,3]\r\n,[11,6],[12   , 1]  ,[1  ,   2],[11,    8],[10,2],[1,2],[10,7],[  10,2],[1,2],[11,8  ],[10,2],[1,2],[12,8],[1   1,2]],[[   3,  2], [9  ,   2],[6,1],[1\r\n0,1],[5,2],   [1 1,1],[1  ,  2],[9,3],[7,                     1],[9,2],[1,5],[3,3],[18,                    2],[1,2],[9,3   ]  ,[7,1], [9   ,2],[1,2],[\r\n11,1],[8,1],  [10,2]],[   [   3,2],[9,2],[6,1],[10,1],[5,3],[10,1],[1,2],[9,2],[8,1],[9,2],[3,5],[22,2],[1,2],[9,2],[8,1   ]   ,[9,2],[1  ,2],[12,8],[\r\n11,2]],[[3,2   ],[9,2  ],     [6,1],[10,1],[7,1],[10,1],[1,2],[9,2],[8,1],[9,2],[1,4],[9,5],[11,2],[1,2],[9,2],[8,1],[9,  2  ],  [1,2],   [29,3]],[[3,\r\n2],[9,2],[6,   1],[1  0,  1]  ,[7,1],[10,1],[1,2],[9,3],[7,1],[9,2],[1,3],[9,1],[4,2],[10,2],[1,2],[9,3],[7,1],[9,2],[1   ,2  ],  [24,5  ]],[[3,2],[9,\r\n2],[6,1],[10,   1  ]  ,  [5,   3],[10,1],[1,2],[11,8],[10,2],[1,2],[9,2],[4,2],[10,2],[1,2],[11,8],[10,2],[1,2],[13,11]   ,[7  ,  2 ]]   ,[[2,3],[10,2\r\n],[3,3],[10,3]   ,    [  3,3   ],[10,1],[2,2],[28,2],[1,2],[10,5],[13,2],[1,2],[28,2],[1,2],[31,2]],[[1,3],[11,3],[1,2]  ,[14  ,   2]   ,[2,2],[10,2],\r\n[3,2],[27,2],[1   ,2   ]  ,[   30,1],[1,2],[27,2],[2,2],[30,2]],[[1,1],[15,1],[1,2],[14,2],[2,2],[9,3],[4,3],[25,2],[1,  3]   ,   [2   9,2],[1,3],[25,\r\n2],[3,2],[28,2]]    ,[  [      1,2],[13,2],[1,2],[14,2],[2,2],[8,2],[9 ,3],[  22,2],[3,2],[14,2],[11,2],[5,3],[22,2],[      4   ,3   ],[24,3]],[[1,16]\r\n,[4,4],[6,4],[4,2]    ,[7,2],  [13,3],[1,3],[1,5],[9,2],[5,3],[8,3]   ,[1,3],[  6,2],[11,3],[1,3],[1,5],[9,2],[7,3],[1   7,4]],[    [41,7],[11,8],[6,4\r\n],[8,2],[8,8],[7,5],    [10,8   ],[6,4],[8,2],[10,7],[2,8]],[[57,3],[7,5],[13,2],[36,3],[7,5],[13,2]],[[57,2],[25,2],[  37,2],    [25,2]],[[57,3],[22,\r\n3],[38,3],[22,3]],[[59          ,2],[18,4],[42,2],[18,4]],[[60 , 5     ] ,[    9 ,  5],[47,5],[9,5]],[[64,11],[55,11]]          ];ingage_big_logo_asci\r\niart_coord.each{|line|put        s(line.map{|space,sharp|32.  c h  r     *sp ac e +      '#'*sharp}.join)}###########        #########################\r\n##############################   ############################                         ### ##########################   ###############################\r\n###############################   ##################################################################################   ###############################\r\n################################   ################################################################################   ################################\r\n#################################   #################################       #####################################    #################################\r\n##################################    ################################        ##################################    ##################################\r\n####################################    #################################     #################################   ####################################\r\n######################################    ###################################################################    #####################################\r\n########################################     ##############################################################    #######################################\r\n###########################################     ########## ###############################  ############     #########################################\r\n#############################################      ###### #  ####### ##### ########### #  ############    ############################################\r\n###############################################        ###  # ## ##  # ###    ####  ### #  #######     ###############################################\r\n#############################################              #  ## ## ## #  #### ## #   ######             #############################################\r\n##################################              #               ##  ##### ## ##### ###              #               ##################################\r\n############################                   ##        #####                           ###                              ############################\r\n##########################       ##########    #         ###################################         #    ############       #########################\r\n########################     ######           #           ##################################         #             #######     #######################\r\n#######################    ####              ##           #################################           #                  ###    ######################\r\n#####################    ####                ##             #############################             #                    ##    #####################\r\n#####################   ####                 #          ##     #######################      #          #                    ##    ####################\r\n####################    ###                 ##           ###                             ###           ##                   ###    ###################\r\n###################    ###                 ##            #########                 #########           ##                    ###   ###################\r\n###################    ###                 ##            ###################################            #                    ###   ###################\r\n###################    ##                  #              ##################################             #                   ###    ##################\r\n###################    ##                 ##              #################################              #                   ###    ##################\r\n###################    ##                ##               #################################               #                  ###    ##################\r\n###################    ##                ##               #################################               #                  ###    ##################\r\n###################    ###               #                #################################                #                 ###    ##################\r\n###################    ###              ###                ###############################                                   ###    ##################\r\n###################    ###             #####               ###############################                  #                ###    ##################\r\n###################    ##                 ####             ###############################               ##                  ###    #############)*\"\")\r\n"}
+[3337ea34-ee1e-4fc3-a9af-50f5584cec2e] CODE PARAM: eval(%w(ingage_big                                                                                                         _logo   _asciiart_coord=[[[
+10,4],[15,4],[18,                                                                                                        5],[7,5]  ,[25,15],[4,18],[3,
+19],[1,19]],[[10,                                                                                                         4],[15,4  ],[17,5],[8,5],[1,
+3],[4,10],[31,6],  [1                                                                                                       0,5],[   9,5],[1,5],[9,5]]
+,[[10,4],[15,4],[  16,5                                                                                                      ],[9,   5],[1,3],[4,10],[
+4,21],[1,18],[3,5  ],[9,      5],                                                                                            [1,5],  [9,5]],[[6,11],[2
+,24],[5,5],[5,15]  ,[17,4],[14,3                                                                                             ]    ,  [1,18],[3,19],[1,
+19]],[[10,4],[15,  4],[13, 5],[12                                                                                                     ,5],[7,12],[3,4]
+,[14,3],[1,3],[13  ,2],     [3,5                                                                                                     ],[9,5],[1,5],[9,
+5]],[[10,4],[15,4  ],[1                       1                                                                                       ,5],[3,5],[6,5],
+[7,12],[3,21],[1,  18                         ],                                                                                      [3,5],[9,5],[1,5
+],[9,5]],[[10,4],                            [7,2                                                                                      0],[10,5],[7,5]
+,[11,4],[7,3],[19                           ,18],[3                                                                                     ,19],[1,19]],[
+[10,4],[1,2],[20                           ,3],[10,5]                                                                                    ,[3,3],[2,5],
+[2,3],[6,4],[7,3                          ],[1,4],[6,3]                                                                                     ,[5,3],[13
+,2],[3,5],[29,5]                         ],[[10,5],[8,3],                                                                                  [9,4],[10,5
+],[4,3],[2,5],[2                        ,3],[6,4],[7,3],[1,4                                                                                ],[6,3],[5
+,18],[3,5],[29,                        5]],[[8,6],[10,4],[6,4],                                                                                [9,7],[
+4,3],[2,5],[2,3                       ],[6,4],[7,3],[1,17],[1,18],                                                                          [3,5],[7,1
+5],[7,5]],[[6,                       3],[1,4],[11,4],[4,4],[8,4],[1,4                                                                     ],[3,4],[2,5
+],[2,4],[5,4]                      ,[7,2],[2,4],[4,4],[6,3],[13,2],[3,5],[7,3                                                         ],[9,3],[7,5]],[
+[10,4],[12,                       4],[1,5]               ,[14,4],[3,4],[2,5],[2,4],                                                           [5,4],[6
+,3],[1,1                         8],[1,18],[3,5],[7,3],[      9,3],[7,5]],[[10,4],[14       ,6]                                              ,[16,4],[
+3,4],[2,5]                       ,[2,4],[5,4],[5,3],[1,1],[1,  4],[4,4],[6,18],[3,5],  [7,3],[9,3],[7,5]],[[10,4],[                         13,4],[1,4
+],[14,4],[9,5                   ],[11,4],[4,3],[4,17],[4,4],[5,4],[5,5],[7,15],[7,5]],[[10,4],[10,6],[3,5],[12,4],[9                       ,5],[8,7],[
+3,2],[6,                         4],[4,4                         ],[8,4],[7,4],[4,5]                         ,[26,8]],                    [[9,5],[7,8]
+,[5,8],                          [8,  4],[9,5] ,[11,4],[1  1,17],[  1,5        ],  [9,5],[2  ,5],[29,5  ]],[[0   ,0]                    ],[[7,6]],[[4,
+3],[6,2]],[[3                       ,2],[10,2]],[[2,2],[12,2]],[[3,  2],[10,2]],  [[4,2],[7,3]],[[6  ,7],[85,10]]                       ,[[5,10],[7,24
+],[17,16],[3    ,4]                ,[7,4],[11, 5],    [1    6,16],[  3,4],[13,15  ]],[[3,2      ],  [   9,2],[2,4  ],[           24,3]    ,[10,4],[22,
+2],[3,4],[19   ,     3          ],  [9,4],[22,2],[        8,3],[17,  3]],[[1,2],[ 11,2],[2,     2]  ,[29,2],[6,3] ,[2           5     ,   2],[1,3],[24
+,3],[5,3],[   2  5,2]  ,       [5,  3],[23,3]],[[1,1]     ,[12,2],  [2,2],[30,2],  [3,3],[2 7,2],   [1,2],[26,2], [3,3        ]  ,[27  ,   2],[3,3],[2
+7,2],],[[1,   2 ],[11   ,2     ],[2 ,4],[29,2],[1,3]    ,[28,2],[1 ,2],[13,3],[11, 2],[1,3],[2    8,2],[2,3],[29  ,2]],      [   [1,4] ,   [9,2],[4,3]
+,[11,6],[12   , 1]  ,[1  ,   2],[11,    8],[10,2],[1,2],[10,7],[  10,2],[1,2],[11,8  ],[10,2],[1,2],[12,8],[1   1,2]],[[   3,  2], [9  ,   2],[6,1],[1
+0,1],[5,2],   [1 1,1],[1  ,  2],[9,3],[7,                     1],[9,2],[1,5],[3,3],[18,                    2],[1,2],[9,3   ]  ,[7,1], [9   ,2],[1,2],[
+11,1],[8,1],  [10,2]],[   [   3,2],[9,2],[6,1],[10,1],[5,3],[10,1],[1,2],[9,2],[8,1],[9,2],[3,5],[22,2],[1,2],[9,2],[8,1   ]   ,[9,2],[1  ,2],[12,8],[
+11,2]],[[3,2   ],[9,2  ],     [6,1],[10,1],[7,1],[10,1],[1,2],[9,2],[8,1],[9,2],[1,4],[9,5],[11,2],[1,2],[9,2],[8,1],[9,  2  ],  [1,2],   [29,3]],[[3,
+2],[9,2],[6,   1],[1  0,  1]  ,[7,1],[10,1],[1,2],[9,3],[7,1],[9,2],[1,3],[9,1],[4,2],[10,2],[1,2],[9,3],[7,1],[9,2],[1   ,2  ],  [24,5  ]],[[3,2],[9,
+2],[6,1],[10,   1  ]  ,  [5,   3],[10,1],[1,2],[11,8],[10,2],[1,2],[9,2],[4,2],[10,2],[1,2],[11,8],[10,2],[1,2],[13,11]   ,[7  ,  2 ]]   ,[[2,3],[10,2
+],[3,3],[10,3]   ,    [  3,3   ],[10,1],[2,2],[28,2],[1,2],[10,5],[13,2],[1,2],[28,2],[1,2],[31,2]],[[1,3],[11,3],[1,2]  ,[14  ,   2]   ,[2,2],[10,2],
+[3,2],[27,2],[1   ,2   ]  ,[   30,1],[1,2],[27,2],[2,2],[30,2]],[[1,1],[15,1],[1,2],[14,2],[2,2],[9,3],[4,3],[25,2],[1,  3]   ,   [2   9,2],[1,3],[25,
+2],[3,2],[28,2]]    ,[  [      1,2],[13,2],[1,2],[14,2],[2,2],[8,2],[9 ,3],[  22,2],[3,2],[14,2],[11,2],[5,3],[22,2],[      4   ,3   ],[24,3]],[[1,16]
+,[4,4],[6,4],[4,2]    ,[7,2],  [13,3],[1,3],[1,5],[9,2],[5,3],[8,3]   ,[1,3],[  6,2],[11,3],[1,3],[1,5],[9,2],[7,3],[1   7,4]],[    [41,7],[11,8],[6,4
+],[8,2],[8,8],[7,5],    [10,8   ],[6,4],[8,2],[10,7],[2,8]],[[57,3],[7,5],[13,2],[36,3],[7,5],[13,2]],[[57,2],[25,2],[  37,2],    [25,2]],[[57,3],[22,
+3],[38,3],[22,3]],[[59          ,2],[18,4],[42,2],[18,4]],[[60 , 5     ] ,[    9 ,  5],[47,5],[9,5]],[[64,11],[55,11]]          ];ingage_big_logo_asci
+iart_coord.each{|line|put        s(line.map{|space,sharp|32.  c h  r     *sp ac e +      '#'*sharp}.join)}###########        #########################
+##############################   ############################                         ### ##########################   ###############################
+###############################   ##################################################################################   ###############################
+################################   ################################################################################   ################################
+#################################   #################################       #####################################    #################################
+##################################    ################################        ##################################    ##################################
+####################################    #################################     #################################   ####################################
+######################################    ###################################################################    #####################################
+########################################     ##############################################################    #######################################
+###########################################     ########## ###############################  ############     #########################################
+#############################################      ###### #  ####### ##### ########### #  ############    ############################################
+###############################################        ###  # ## ##  # ###    ####  ### #  #######     ###############################################
+#############################################              #  ## ## ## #  #### ## #   ######             #############################################
+##################################              #               ##  ##### ## ##### ###              #               ##################################
+############################                   ##        #####                           ###                              ############################
+##########################       ##########    #         ###################################         #    ############       #########################
+########################     ######           #           ##################################         #             #######     #######################
+#######################    ####              ##           #################################           #                  ###    ######################
+#####################    ####                ##             #############################             #                    ##    #####################
+#####################   ####                 #          ##     #######################      #          #                    ##    ####################
+####################    ###                 ##           ###                             ###           ##                   ###    ###################
+###################    ###                 ##            #########                 #########           ##                    ###   ###################
+###################    ###                 ##            ###################################            #                    ###   ###################
+###################    ##                  #              ##################################             #                   ###    ##################
+###################    ##                 ##              #################################              #                   ###    ##################
+###################    ##                ##               #################################               #                  ###    ##################
+###################    ##                ##               #################################               #                  ###    ##################
+###################    ###               #                #################################                #                 ###    ##################
+###################    ###              ###                ###############################                                   ###    ##################
+###################    ###             #####               ###############################                  #                ###    ##################
+###################    ##                 ####             ###############################               ##                  ###    #############)*"")
+
+[3337ea34-ee1e-4fc3-a9af-50f5584cec2e]   Rendered layout layouts/application.html.erb (Duration: 0.6ms | GC: 0.0ms)
+[3337ea34-ee1e-4fc3-a9af-50f5584cec2e] Completed 200 OK in 3ms (Views: 0.9ms | GC: 0.2ms)
+[7b0b3318-9a47-4eac-ab28-8dd49a2e48a5] Started GET "/app/assets/stylesheets/application.css" for 92.203.104.102 at 2025-06-27 01:59:34 +0000
+[7b0b3318-9a47-4eac-ab28-8dd49a2e48a5]   
+[7b0b3318-9a47-4eac-ab28-8dd49a2e48a5] ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/application.css"):
+[7b0b3318-9a47-4eac-ab28-8dd49a2e48a5]   
+[d4e045c1-6bd2-4c76-a8a8-e7dcf504ecf8] Started GET "/execute" for 92.203.104.102 at 2025-06-27 02:00:06 +0000
+[d4e045c1-6bd2-4c76-a8a8-e7dcf504ecf8]   
+[d4e045c1-6bd2-4c76-a8a8-e7dcf504ecf8] ActionController::RoutingError (No route matches [GET] "/execute"):
+[d4e045c1-6bd2-4c76-a8a8-e7dcf504ecf8]   
+[4e84f741-0038-4494-ad71-59a4812aa6ca] Started GET "/favicon.ico" for 92.203.104.102 at 2025-06-27 02:00:06 +0000
+[4e84f741-0038-4494-ad71-59a4812aa6ca]   
+[4e84f741-0038-4494-ad71-59a4812aa6ca] ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+[4e84f741-0038-4494-ad71-59a4812aa6ca]   
+[02b264ce-62aa-47a8-a307-4608fc03b885] Started GET "/app/assets/stylesheets/application.css" for 92.203.104.102 at 2025-06-27 02:00:08 +0000
+[02b264ce-62aa-47a8-a307-4608fc03b885]   
+[02b264ce-62aa-47a8-a307-4608fc03b885] ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/application.css"):
+[02b264ce-62aa-47a8-a307-4608fc03b885]   
+[1aede35b-7e77-423f-acdc-7d6cc513778b] Started GET "/" for 92.203.104.102 at 2025-06-27 02:00:09 +0000
+[1aede35b-7e77-423f-acdc-7d6cc513778b] Processing by TerminalController#index as HTML
+[1aede35b-7e77-423f-acdc-7d6cc513778b]   Rendered layout layouts/application.html.erb (Duration: 0.6ms | GC: 0.0ms)
+[1aede35b-7e77-423f-acdc-7d6cc513778b] Completed 200 OK in 1ms (Views: 0.9ms | GC: 0.0ms)
+[496f4422-13cf-403a-9dbc-421f8c523e55] Started GET "/app/assets/stylesheets/application.css" for 92.203.104.102 at 2025-06-27 02:00:09 +0000
+[496f4422-13cf-403a-9dbc-421f8c523e55]   
+[496f4422-13cf-403a-9dbc-421f8c523e55] ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/application.css"):
+[496f4422-13cf-403a-9dbc-421f8c523e55]   
+[36a58a28-6b0c-404d-a9af-a1acd6e2f08c] Started POST "/execute" for 92.203.104.102 at 2025-06-27 02:00:10 +0000
+[36a58a28-6b0c-404d-a9af-a1acd6e2f08c] Processing by TerminalController#execute as HTML
+[36a58a28-6b0c-404d-a9af-a1acd6e2f08c]   Parameters: {"authenticity_token" => "[FILTERED]", "code" => "eval(%w(ingage_big                                                                                                         _logo   _asciiart_coord=[[[\r\n10,4],[15,4],[18,                                                                                                        5],[7,5]  ,[25,15],[4,18],[3,\r\n19],[1,19]],[[10,                                                                                                         4],[15,4  ],[17,5],[8,5],[1,\r\n3],[4,10],[31,6],  [1                                                                                                       0,5],[   9,5],[1,5],[9,5]]\r\n,[[10,4],[15,4],[  16,5                                                                                                      ],[9,   5],[1,3],[4,10],[\r\n4,21],[1,18],[3,5  ],[9,      5],                                                                                            [1,5],  [9,5]],[[6,11],[2\r\n,24],[5,5],[5,15]  ,[17,4],[14,3                                                                                             ]    ,  [1,18],[3,19],[1,\r\n19]],[[10,4],[15,  4],[13, 5],[12                                                                                                     ,5],[7,12],[3,4]\r\n,[14,3],[1,3],[13  ,2],     [3,5                                                                                                     ],[9,5],[1,5],[9,\r\n5]],[[10,4],[15,4  ],[1                       1                                                                                       ,5],[3,5],[6,5],\r\n[7,12],[3,21],[1,  18                         ],                                                                                      [3,5],[9,5],[1,5\r\n],[9,5]],[[10,4],                            [7,2                                                                                      0],[10,5],[7,5]\r\n,[11,4],[7,3],[19                           ,18],[3                                                                                     ,19],[1,19]],[\r\n[10,4],[1,2],[20                           ,3],[10,5]                                                                                    ,[3,3],[2,5],\r\n[2,3],[6,4],[7,3                          ],[1,4],[6,3]                                                                                     ,[5,3],[13\r\n,2],[3,5],[29,5]                         ],[[10,5],[8,3],                                                                                  [9,4],[10,5\r\n],[4,3],[2,5],[2                        ,3],[6,4],[7,3],[1,4                                                                                ],[6,3],[5\r\n,18],[3,5],[29,                        5]],[[8,6],[10,4],[6,4],                                                                                [9,7],[\r\n4,3],[2,5],[2,3                       ],[6,4],[7,3],[1,17],[1,18],                                                                          [3,5],[7,1\r\n5],[7,5]],[[6,                       3],[1,4],[11,4],[4,4],[8,4],[1,4                                                                     ],[3,4],[2,5\r\n],[2,4],[5,4]                      ,[7,2],[2,4],[4,4],[6,3],[13,2],[3,5],[7,3                                                         ],[9,3],[7,5]],[\r\n[10,4],[12,                       4],[1,5]               ,[14,4],[3,4],[2,5],[2,4],                                                           [5,4],[6\r\n,3],[1,1                         8],[1,18],[3,5],[7,3],[      9,3],[7,5]],[[10,4],[14       ,6]                                              ,[16,4],[\r\n3,4],[2,5]                       ,[2,4],[5,4],[5,3],[1,1],[1,  4],[4,4],[6,18],[3,5],  [7,3],[9,3],[7,5]],[[10,4],[                         13,4],[1,4\r\n],[14,4],[9,5                   ],[11,4],[4,3],[4,17],[4,4],[5,4],[5,5],[7,15],[7,5]],[[10,4],[10,6],[3,5],[12,4],[9                       ,5],[8,7],[\r\n3,2],[6,                         4],[4,4                         ],[8,4],[7,4],[4,5]                         ,[26,8]],                    [[9,5],[7,8]\r\n,[5,8],                          [8,  4],[9,5] ,[11,4],[1  1,17],[  1,5        ],  [9,5],[2  ,5],[29,5  ]],[[0   ,0]                    ],[[7,6]],[[4,\r\n3],[6,2]],[[3                       ,2],[10,2]],[[2,2],[12,2]],[[3,  2],[10,2]],  [[4,2],[7,3]],[[6  ,7],[85,10]]                       ,[[5,10],[7,24\r\n],[17,16],[3    ,4]                ,[7,4],[11, 5],    [1    6,16],[  3,4],[13,15  ]],[[3,2      ],  [   9,2],[2,4  ],[           24,3]    ,[10,4],[22,\r\n2],[3,4],[19   ,     3          ],  [9,4],[22,2],[        8,3],[17,  3]],[[1,2],[ 11,2],[2,     2]  ,[29,2],[6,3] ,[2           5     ,   2],[1,3],[24\r\n,3],[5,3],[   2  5,2]  ,       [5,  3],[23,3]],[[1,1]     ,[12,2],  [2,2],[30,2],  [3,3],[2 7,2],   [1,2],[26,2], [3,3        ]  ,[27  ,   2],[3,3],[2\r\n7,2],],[[1,   2 ],[11   ,2     ],[2 ,4],[29,2],[1,3]    ,[28,2],[1 ,2],[13,3],[11, 2],[1,3],[2    8,2],[2,3],[29  ,2]],      [   [1,4] ,   [9,2],[4,3]\r\n,[11,6],[12   , 1]  ,[1  ,   2],[11,    8],[10,2],[1,2],[10,7],[  10,2],[1,2],[11,8  ],[10,2],[1,2],[12,8],[1   1,2]],[[   3,  2], [9  ,   2],[6,1],[1\r\n0,1],[5,2],   [1 1,1],[1  ,  2],[9,3],[7,                     1],[9,2],[1,5],[3,3],[18,                    2],[1,2],[9,3   ]  ,[7,1], [9   ,2],[1,2],[\r\n11,1],[8,1],  [10,2]],[   [   3,2],[9,2],[6,1],[10,1],[5,3],[10,1],[1,2],[9,2],[8,1],[9,2],[3,5],[22,2],[1,2],[9,2],[8,1   ]   ,[9,2],[1  ,2],[12,8],[\r\n11,2]],[[3,2   ],[9,2  ],     [6,1],[10,1],[7,1],[10,1],[1,2],[9,2],[8,1],[9,2],[1,4],[9,5],[11,2],[1,2],[9,2],[8,1],[9,  2  ],  [1,2],   [29,3]],[[3,\r\n2],[9,2],[6,   1],[1  0,  1]  ,[7,1],[10,1],[1,2],[9,3],[7,1],[9,2],[1,3],[9,1],[4,2],[10,2],[1,2],[9,3],[7,1],[9,2],[1   ,2  ],  [24,5  ]],[[3,2],[9,\r\n2],[6,1],[10,   1  ]  ,  [5,   3],[10,1],[1,2],[11,8],[10,2],[1,2],[9,2],[4,2],[10,2],[1,2],[11,8],[10,2],[1,2],[13,11]   ,[7  ,  2 ]]   ,[[2,3],[10,2\r\n],[3,3],[10,3]   ,    [  3,3   ],[10,1],[2,2],[28,2],[1,2],[10,5],[13,2],[1,2],[28,2],[1,2],[31,2]],[[1,3],[11,3],[1,2]  ,[14  ,   2]   ,[2,2],[10,2],\r\n[3,2],[27,2],[1   ,2   ]  ,[   30,1],[1,2],[27,2],[2,2],[30,2]],[[1,1],[15,1],[1,2],[14,2],[2,2],[9,3],[4,3],[25,2],[1,  3]   ,   [2   9,2],[1,3],[25,\r\n2],[3,2],[28,2]]    ,[  [      1,2],[13,2],[1,2],[14,2],[2,2],[8,2],[9 ,3],[  22,2],[3,2],[14,2],[11,2],[5,3],[22,2],[      4   ,3   ],[24,3]],[[1,16]\r\n,[4,4],[6,4],[4,2]    ,[7,2],  [13,3],[1,3],[1,5],[9,2],[5,3],[8,3]   ,[1,3],[  6,2],[11,3],[1,3],[1,5],[9,2],[7,3],[1   7,4]],[    [41,7],[11,8],[6,4\r\n],[8,2],[8,8],[7,5],    [10,8   ],[6,4],[8,2],[10,7],[2,8]],[[57,3],[7,5],[13,2],[36,3],[7,5],[13,2]],[[57,2],[25,2],[  37,2],    [25,2]],[[57,3],[22,\r\n3],[38,3],[22,3]],[[59          ,2],[18,4],[42,2],[18,4]],[[60 , 5     ] ,[    9 ,  5],[47,5],[9,5]],[[64,11],[55,11]]          ];ingage_big_logo_asci\r\niart_coord.each{|line|put        s(line.map{|space,sharp|32.  c h  r     *sp ac e +      '#'*sharp}.join)}###########        #########################\r\n##############################   ############################                         ### ##########################   ###############################\r\n###############################   ##################################################################################   ###############################\r\n################################   ################################################################################   ################################\r\n#################################   #################################       #####################################    #################################\r\n##################################    ################################        ##################################    ##################################\r\n####################################    #################################     #################################   ####################################\r\n######################################    ###################################################################    #####################################\r\n########################################     ##############################################################    #######################################\r\n###########################################     ########## ###############################  ############     #########################################\r\n#############################################      ###### #  ####### ##### ########### #  ############    ############################################\r\n###############################################        ###  # ## ##  # ###    ####  ### #  #######     ###############################################\r\n#############################################              #  ## ## ## #  #### ## #   ######             #############################################\r\n##################################              #               ##  ##### ## ##### ###              #               ##################################\r\n############################                   ##        #####                           ###                              ############################\r\n##########################       ##########    #         ###################################         #    ############       #########################\r\n########################     ######           #           ##################################         #             #######     #######################\r\n#######################    ####              ##           #################################           #                  ###    ######################\r\n#####################    ####                ##             #############################             #                    ##    #####################\r\n#####################   ####                 #          ##     #######################      #          #                    ##    ####################\r\n####################    ###                 ##           ###                             ###           ##                   ###    ###################\r\n###################    ###                 ##            #########                 #########           ##                    ###   ###################\r\n###################    ###                 ##            ###################################            #                    ###   ###################\r\n###################    ##                  #              ##################################             #                   ###    ##################\r\n###################    ##                 ##              #################################              #                   ###    ##################\r\n###################    ##                ##               #################################               #                  ###    ##################\r\n###################    ##                ##               #################################               #                  ###    ##################\r\n###################    ###               #                #################################                #                 ###    ##################\r\n###################    ###              ###                ###############################                                   ###    ##################\r\n###################    ###             #####               ###############################                  #                ###    ##################\r\n###################    ##                 ####             ###############################               ##                  ###    #############)*\"\")\r\n"}
+[36a58a28-6b0c-404d-a9af-a1acd6e2f08c] CODE PARAM: eval(%w(ingage_big                                                                                                         _logo   _asciiart_coord=[[[
+10,4],[15,4],[18,                                                                                                        5],[7,5]  ,[25,15],[4,18],[3,
+19],[1,19]],[[10,                                                                                                         4],[15,4  ],[17,5],[8,5],[1,
+3],[4,10],[31,6],  [1                                                                                                       0,5],[   9,5],[1,5],[9,5]]
+,[[10,4],[15,4],[  16,5                                                                                                      ],[9,   5],[1,3],[4,10],[
+4,21],[1,18],[3,5  ],[9,      5],                                                                                            [1,5],  [9,5]],[[6,11],[2
+,24],[5,5],[5,15]  ,[17,4],[14,3                                                                                             ]    ,  [1,18],[3,19],[1,
+19]],[[10,4],[15,  4],[13, 5],[12                                                                                                     ,5],[7,12],[3,4]
+,[14,3],[1,3],[13  ,2],     [3,5                                                                                                     ],[9,5],[1,5],[9,
+5]],[[10,4],[15,4  ],[1                       1                                                                                       ,5],[3,5],[6,5],
+[7,12],[3,21],[1,  18                         ],                                                                                      [3,5],[9,5],[1,5
+],[9,5]],[[10,4],                            [7,2                                                                                      0],[10,5],[7,5]
+,[11,4],[7,3],[19                           ,18],[3                                                                                     ,19],[1,19]],[
+[10,4],[1,2],[20                           ,3],[10,5]                                                                                    ,[3,3],[2,5],
+[2,3],[6,4],[7,3                          ],[1,4],[6,3]                                                                                     ,[5,3],[13
+,2],[3,5],[29,5]                         ],[[10,5],[8,3],                                                                                  [9,4],[10,5
+],[4,3],[2,5],[2                        ,3],[6,4],[7,3],[1,4                                                                                ],[6,3],[5
+,18],[3,5],[29,                        5]],[[8,6],[10,4],[6,4],                                                                                [9,7],[
+4,3],[2,5],[2,3                       ],[6,4],[7,3],[1,17],[1,18],                                                                          [3,5],[7,1
+5],[7,5]],[[6,                       3],[1,4],[11,4],[4,4],[8,4],[1,4                                                                     ],[3,4],[2,5
+],[2,4],[5,4]                      ,[7,2],[2,4],[4,4],[6,3],[13,2],[3,5],[7,3                                                         ],[9,3],[7,5]],[
+[10,4],[12,                       4],[1,5]               ,[14,4],[3,4],[2,5],[2,4],                                                           [5,4],[6
+,3],[1,1                         8],[1,18],[3,5],[7,3],[      9,3],[7,5]],[[10,4],[14       ,6]                                              ,[16,4],[
+3,4],[2,5]                       ,[2,4],[5,4],[5,3],[1,1],[1,  4],[4,4],[6,18],[3,5],  [7,3],[9,3],[7,5]],[[10,4],[                         13,4],[1,4
+],[14,4],[9,5                   ],[11,4],[4,3],[4,17],[4,4],[5,4],[5,5],[7,15],[7,5]],[[10,4],[10,6],[3,5],[12,4],[9                       ,5],[8,7],[
+3,2],[6,                         4],[4,4                         ],[8,4],[7,4],[4,5]                         ,[26,8]],                    [[9,5],[7,8]
+,[5,8],                          [8,  4],[9,5] ,[11,4],[1  1,17],[  1,5        ],  [9,5],[2  ,5],[29,5  ]],[[0   ,0]                    ],[[7,6]],[[4,
+3],[6,2]],[[3                       ,2],[10,2]],[[2,2],[12,2]],[[3,  2],[10,2]],  [[4,2],[7,3]],[[6  ,7],[85,10]]                       ,[[5,10],[7,24
+],[17,16],[3    ,4]                ,[7,4],[11, 5],    [1    6,16],[  3,4],[13,15  ]],[[3,2      ],  [   9,2],[2,4  ],[           24,3]    ,[10,4],[22,
+2],[3,4],[19   ,     3          ],  [9,4],[22,2],[        8,3],[17,  3]],[[1,2],[ 11,2],[2,     2]  ,[29,2],[6,3] ,[2           5     ,   2],[1,3],[24
+,3],[5,3],[   2  5,2]  ,       [5,  3],[23,3]],[[1,1]     ,[12,2],  [2,2],[30,2],  [3,3],[2 7,2],   [1,2],[26,2], [3,3        ]  ,[27  ,   2],[3,3],[2
+7,2],],[[1,   2 ],[11   ,2     ],[2 ,4],[29,2],[1,3]    ,[28,2],[1 ,2],[13,3],[11, 2],[1,3],[2    8,2],[2,3],[29  ,2]],      [   [1,4] ,   [9,2],[4,3]
+,[11,6],[12   , 1]  ,[1  ,   2],[11,    8],[10,2],[1,2],[10,7],[  10,2],[1,2],[11,8  ],[10,2],[1,2],[12,8],[1   1,2]],[[   3,  2], [9  ,   2],[6,1],[1
+0,1],[5,2],   [1 1,1],[1  ,  2],[9,3],[7,                     1],[9,2],[1,5],[3,3],[18,                    2],[1,2],[9,3   ]  ,[7,1], [9   ,2],[1,2],[
+11,1],[8,1],  [10,2]],[   [   3,2],[9,2],[6,1],[10,1],[5,3],[10,1],[1,2],[9,2],[8,1],[9,2],[3,5],[22,2],[1,2],[9,2],[8,1   ]   ,[9,2],[1  ,2],[12,8],[
+11,2]],[[3,2   ],[9,2  ],     [6,1],[10,1],[7,1],[10,1],[1,2],[9,2],[8,1],[9,2],[1,4],[9,5],[11,2],[1,2],[9,2],[8,1],[9,  2  ],  [1,2],   [29,3]],[[3,
+2],[9,2],[6,   1],[1  0,  1]  ,[7,1],[10,1],[1,2],[9,3],[7,1],[9,2],[1,3],[9,1],[4,2],[10,2],[1,2],[9,3],[7,1],[9,2],[1   ,2  ],  [24,5  ]],[[3,2],[9,
+2],[6,1],[10,   1  ]  ,  [5,   3],[10,1],[1,2],[11,8],[10,2],[1,2],[9,2],[4,2],[10,2],[1,2],[11,8],[10,2],[1,2],[13,11]   ,[7  ,  2 ]]   ,[[2,3],[10,2
+],[3,3],[10,3]   ,    [  3,3   ],[10,1],[2,2],[28,2],[1,2],[10,5],[13,2],[1,2],[28,2],[1,2],[31,2]],[[1,3],[11,3],[1,2]  ,[14  ,   2]   ,[2,2],[10,2],
+[3,2],[27,2],[1   ,2   ]  ,[   30,1],[1,2],[27,2],[2,2],[30,2]],[[1,1],[15,1],[1,2],[14,2],[2,2],[9,3],[4,3],[25,2],[1,  3]   ,   [2   9,2],[1,3],[25,
+2],[3,2],[28,2]]    ,[  [      1,2],[13,2],[1,2],[14,2],[2,2],[8,2],[9 ,3],[  22,2],[3,2],[14,2],[11,2],[5,3],[22,2],[      4   ,3   ],[24,3]],[[1,16]
+,[4,4],[6,4],[4,2]    ,[7,2],  [13,3],[1,3],[1,5],[9,2],[5,3],[8,3]   ,[1,3],[  6,2],[11,3],[1,3],[1,5],[9,2],[7,3],[1   7,4]],[    [41,7],[11,8],[6,4
+],[8,2],[8,8],[7,5],    [10,8   ],[6,4],[8,2],[10,7],[2,8]],[[57,3],[7,5],[13,2],[36,3],[7,5],[13,2]],[[57,2],[25,2],[  37,2],    [25,2]],[[57,3],[22,
+3],[38,3],[22,3]],[[59          ,2],[18,4],[42,2],[18,4]],[[60 , 5     ] ,[    9 ,  5],[47,5],[9,5]],[[64,11],[55,11]]          ];ingage_big_logo_asci
+iart_coord.each{|line|put        s(line.map{|space,sharp|32.  c h  r     *sp ac e +      '#'*sharp}.join)}###########        #########################
+##############################   ############################                         ### ##########################   ###############################
+###############################   ##################################################################################   ###############################
+################################   ################################################################################   ################################
+#################################   #################################       #####################################    #################################
+##################################    ################################        ##################################    ##################################
+####################################    #################################     #################################   ####################################
+######################################    ###################################################################    #####################################
+########################################     ##############################################################    #######################################
+###########################################     ########## ###############################  ############     #########################################
+#############################################      ###### #  ####### ##### ########### #  ############    ############################################
+###############################################        ###  # ## ##  # ###    ####  ### #  #######     ###############################################
+#############################################              #  ## ## ## #  #### ## #   ######             #############################################
+##################################              #               ##  ##### ## ##### ###              #               ##################################
+############################                   ##        #####                           ###                              ############################
+##########################       ##########    #         ###################################         #    ############       #########################
+########################     ######           #           ##################################         #             #######     #######################
+#######################    ####              ##           #################################           #                  ###    ######################
+#####################    ####                ##             #############################             #                    ##    #####################
+#####################   ####                 #          ##     #######################      #          #                    ##    ####################
+####################    ###                 ##           ###                             ###           ##                   ###    ###################
+###################    ###                 ##            #########                 #########           ##                    ###   ###################
+###################    ###                 ##            ###################################            #                    ###   ###################
+###################    ##                  #              ##################################             #                   ###    ##################
+###################    ##                 ##              #################################              #                   ###    ##################
+###################    ##                ##               #################################               #                  ###    ##################
+###################    ##                ##               #################################               #                  ###    ##################
+###################    ###               #                #################################                #                 ###    ##################
+###################    ###              ###                ###############################                                   ###    ##################
+###################    ###             #####               ###############################                  #                ###    ##################
+###################    ##                 ####             ###############################               ##                  ###    #############)*"")
+
+[36a58a28-6b0c-404d-a9af-a1acd6e2f08c]   Rendered layout layouts/application.html.erb (Duration: 0.6ms | GC: 0.0ms)
+[36a58a28-6b0c-404d-a9af-a1acd6e2f08c] Completed 200 OK in 3ms (Views: 0.9ms | GC: 0.3ms)
+[cbe34967-0077-4663-a347-2cca35f8d10b] Started GET "/app/assets/stylesheets/application.css" for 92.203.104.102 at 2025-06-27 02:00:11 +0000
+[cbe34967-0077-4663-a347-2cca35f8d10b]   
+[cbe34967-0077-4663-a347-2cca35f8d10b] ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/application.css"):
+[cbe34967-0077-4663-a347-2cca35f8d10b]   
+[1df01878-589b-43f9-84cd-ab3b90ae7a15] Started GET "/execute" for 92.203.104.102 at 2025-06-27 02:00:32 +0000
+[1df01878-589b-43f9-84cd-ab3b90ae7a15]   
+[1df01878-589b-43f9-84cd-ab3b90ae7a15] ActionController::RoutingError (No route matches [GET] "/execute"):
+[1df01878-589b-43f9-84cd-ab3b90ae7a15]   
+[d392fafb-b4cb-4c1d-b03c-a0049324e7df] Started GET "/app/assets/stylesheets/application.css" for 92.203.104.102 at 2025-06-27 02:00:33 +0000
+[d392fafb-b4cb-4c1d-b03c-a0049324e7df]   
+[d392fafb-b4cb-4c1d-b03c-a0049324e7df] ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/application.css"):
+[d392fafb-b4cb-4c1d-b03c-a0049324e7df]   
+[4a166453-dca3-43fc-9cc0-b3d75523e8ce] Started GET "/" for 92.203.104.102 at 2025-06-27 02:00:34 +0000
+[4a166453-dca3-43fc-9cc0-b3d75523e8ce] Processing by TerminalController#index as HTML
+[4a166453-dca3-43fc-9cc0-b3d75523e8ce]   Rendered layout layouts/application.html.erb (Duration: 0.6ms | GC: 0.0ms)
+[4a166453-dca3-43fc-9cc0-b3d75523e8ce] Completed 200 OK in 1ms (Views: 0.8ms | GC: 0.0ms)
+[fd2d2310-ebcc-438d-a29f-1c475f3ed2fe] Started GET "/app/assets/stylesheets/application.css" for 92.203.104.102 at 2025-06-27 02:00:34 +0000
+[fd2d2310-ebcc-438d-a29f-1c475f3ed2fe]   
+[fd2d2310-ebcc-438d-a29f-1c475f3ed2fe] ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/application.css"):
+[fd2d2310-ebcc-438d-a29f-1c475f3ed2fe]   
+[a4684f43-cae4-43d4-ad66-17b5a7e1e11b] Started GET "/" for 92.203.104.102 at 2025-06-27 02:00:42 +0000
+[a4684f43-cae4-43d4-ad66-17b5a7e1e11b] Processing by TerminalController#index as HTML
+[a4684f43-cae4-43d4-ad66-17b5a7e1e11b]   Rendered layout layouts/application.html.erb (Duration: 7.1ms | GC: 0.0ms)
+[a4684f43-cae4-43d4-ad66-17b5a7e1e11b] Completed 200 OK in 17ms (Views: 8.4ms | GC: 0.0ms)
+[c96a4cda-40c6-4965-bb11-5eec03984116] Started GET "/app/assets/stylesheets/application.css" for 92.203.104.102 at 2025-06-27 02:00:42 +0000
+[c96a4cda-40c6-4965-bb11-5eec03984116]   
+[c96a4cda-40c6-4965-bb11-5eec03984116] ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/application.css"):
+[c96a4cda-40c6-4965-bb11-5eec03984116]   
